@@ -4,6 +4,8 @@ title: Experience
 featured_image: /assets/images/pages/experience/ROC.jpeg
 ---
 
+>“The only source of knowledge is experience.” <cite>― Albert Einstein ―</cite>
+
 ## Data Science
 
 In the summer of 2018 I worked under Dr. Gourab Ghoshal at the University of Rochester.

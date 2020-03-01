@@ -1,11 +1,11 @@
 # Site setings
 name: 'Connor Luckett'
 description: 'cobelu'
-meta_description: 'cobelu'
+meta_description: 'co.be.lu'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
-  image: 'logo.jpg'
+  image: 'authorimage.jpg'
   greetings: "Hello, I'm Connor!"
 favicon: 'assets/images/favicon.ico'
 baseurl: 
