@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creality Ender 3 Pro
-tags: [model]
+tags: [CNC]
 featured_image_thumbnail: Creality Ender 3 Pro
 featured_image: assets/images/posts/2020/06/ender3pro.jpg
 featured: true
