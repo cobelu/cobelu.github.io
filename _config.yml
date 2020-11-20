@@ -43,8 +43,8 @@ navigation:
     url: /projects
   - text: Experience
     url: /experience
-#  - text: Contact Me
-#    url: /contact
+  - text: CX4 Project
+    url: https://connorcx4.wordpress.com/
 
 # Required Plugins
 plugins_dir:
