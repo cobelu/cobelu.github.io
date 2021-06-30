@@ -3,6 +3,8 @@ layout: post
 title: Thoughts on Aircraft Design
 tags: [aerodynamics, airplane, design]
 featured: true
+featured_image_thumbnail: GA30A-412
+featured_image: assets/images/posts/2021/06/30A-412.jpg
 hidden: false
 ---
 
