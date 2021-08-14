@@ -25,16 +25,15 @@ As a scientist, I have to believe that encouraging everyone to never try anythin
 
 Now, unconventional aircraft design has led to some serious issues in the past.
 However, Gudmundsson fails to mention a single one.
-He uses textbook examples, such as the NASA blended wing bodty
+He uses textbook examples, such as the NASA blended wing body.
+It may be the *de facto* textbook representation of the original, but it has never been flown or even built for that matter.
 
 Instead, he pulled a single example of a real-life flying plane, a B-2 Spirit bomber.
 That is an exceptionally performing aircraft.
 [The B-2 is capable of a range of more than 13,000 miles](https://en.wikipedia.org/wiki/Northrop_Grumman_B-2_Spirit).
 That's insane!
 They may be incredibly expensive, but they're still in service, so I guess the military still has no quarrels with well-done unconventional designs.
-
-Towards the end of the presentation, he briefly notes of the "this actually has very promising characteristics".
-
+Worse, towards the end of the presentation, he briefly notes of the "this actually has very promising characteristics".
 
 These example *makes me want to do the opposite of what he says*, which defeats the purpose of the presentation.
 
@@ -55,7 +54,7 @@ Perhaps he could discuss how the higher landing speeds adversely affected your s
 
 These are points that can be understood without a degree in engineering. 
 
-## 3. The Timing
+## 4. The Timing
 
 Gudmundsson has a lot of setup.
 Actually, he has way too much setup.
