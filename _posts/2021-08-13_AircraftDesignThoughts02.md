@@ -4,7 +4,7 @@ title: Thoughts on Aircraft Design
 tags: [aerodynamics, airplane, design]
 featured: true
 featured_image_thumbnail: 
-featured_image: 
+featured_image:  
 hidden: false
 ---
 
@@ -85,16 +85,6 @@ Further, the CX4's ailerons are placed *inboard*!
 The culmination of these choices results in *very* poor roll control at high angles of attack, which is exactly what builders are noting.
 [Well, there's your problem](https://knowyourmeme.com/memes/well-theres-your-problem)!
 
-### The Ailerons are Big Enough
-
-My Thatcher will be built with stock ailerons.
-There was discussion about constant-chord ailerons.
-I have some concerns about this.
-I'm not quite sure that this is appropriate, given the teeny-weeny hinges attaching the ailerons to the rear spar.
-I'm also not quite sure about this because of the aileron's torsional stiffness is already a bit lacking.
-I'm not quite sure about the torques on the rodends either since the rodends used are the inexpensive type, whcih are nowhere near the strength of the aviation-grade models. 
-Truthfully, I am too lazy to crunch the numbers, so I'd rather not worry about it by keeping it stock.
-
 ## 1 + 1 = 3
 
 I'm not finished with my Thatcher.
@@ -108,7 +98,3 @@ There isn't anything else quite in its class unless I were to design it myself, 
 The CX4 likely exhibits poor authority because of its wing planform.
 The proposed changes to improve handling are a trade-off which have their downsides.
 A better approach would be to design a new wing of equivalent area with a rectangular planform.
-
-## Verdict
-
-I will stick to the plans.
