@@ -6,6 +6,16 @@ featured_image: /assets/images/pages/projects/quickie.jpg
 
 >“We have a strategic plan. It’s called doing things.” <cite>― Herb Kelleher ―</cite>
 
+## [Odlaw](https://github.com/cobelu/Odlaw)
+
+Odlaw was the final project for [CSCI2390](https://cs.brown.edu/courses/csci2390/), Privacy-Conscious Computer Systems.
+The goal of the project was to help DBAs search for client data in order to quickly package and ship a GDPR-compliant user data report.
+[You can read the final paper here](https://cs.brown.edu/courses/csci2390/assign/project/report/odlaw.pdf).
+The project was revised with a front end and became a demo paper at ICDE 2021.
+We are currently working on Odlaw 2.0, which will answer a series of questions we began to ask while working on the original project.
+
+![The Odlaw Logo](assets/images/pages/projects/odlaw.png)
+
 ## [Digitizing the Long-EZ Plans](https://github.com/cobelu/Long-EZ)
 
 Burt Rutan released the Long-EZ plans as open-source.
@@ -20,14 +30,6 @@ Bully is a builder's logging tool, written in Java.
 
 ![The Bully Logo](assets/images/pages/projects/bully.png)
 
-## [Odlaw](https://github.com/cobelu/Odlaw)
-
-Odlaw was the final project for [CSCI2390](https://cs.brown.edu/courses/csci2390/), Privacy-Conscious Computer Systems.
-The goal of the project was to help DBAs search for client data in order to quickly package and ship a GDPR-compliant user data report.
-[You can read the final paper here](https://cs.brown.edu/courses/csci2390/assign/project/report/odlaw.pdf).
-
-![The Odlaw Logo](assets/images/pages/projects/odlaw.png)
-
 ## [The Chaos Game]()
 
 I learned about The Chaos Game while taking PHYS311 Classical Mechanics.
@@ -38,7 +40,7 @@ I like how the Turtle package it simulates the point-by-point nature of the game
 
 ## [PRRC](https://github.com/cobelu/PRRC)
 
-The Pi Rick-Roll Controller ("prick") came to fruition when I realized that somebody had written a Python package to interface with the Chromecast protocol.
+The Pi Rick-Roll Controller (PRRC) came to fruition when I realized that somebody had written a Python package to interface with the Chromecast protocol.
 It rick-rolls every Chromecast device on your connected network.
 Use with caution!
 

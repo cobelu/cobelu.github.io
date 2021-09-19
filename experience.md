@@ -6,6 +6,20 @@ featured_image: /assets/images/pages/experience/ROC.jpeg
 
 >“The only source of knowledge is experience.” <cite>― Albert Einstein ―</cite>
 
+## Graduate Teaching Assistant
+
+I am the Graduate Teaching Assistant (GTA) for Brown's CSCI 1270 Database Management Systems for the Fall semester of 2021.
+The entire course was refactored for this semester.
+We now have coding assinments implemented in Golang, which allow students to get a better glimpse through the black box.
+We have also worked hard to write new written homework questions, which better serve the students.
+I am incredibly thankful for the hard work of all of the TAs for the course.
+
+## Graduate Research Assistant
+
+I have been a Graduate Research Assistant (GRA) in the Brown Database Group since June of 2019.
+In the past I have worked on distributed databases, specifically determining their applicability for wimpy clusters.
+Now, I consider how aspects of GDPR compliance can be achieved via "bolt-on" mechanisms.
+
 ## Data Science
 
 In the summer of 2018 I worked under Dr. Gourab Ghoshal at the University of Rochester.

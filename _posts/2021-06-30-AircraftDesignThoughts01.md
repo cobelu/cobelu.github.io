@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughts on Aircraft Design
+title: Thoughts on Aircraft Design Part 1
 tags: [aerodynamics, airplane, design]
 featured: true
 featured_image_thumbnail: GA30A-412
