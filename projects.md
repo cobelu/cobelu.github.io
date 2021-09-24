@@ -6,6 +6,24 @@ featured_image: /assets/images/pages/projects/quickie.jpg
 
 >“We have a strategic plan. It’s called doing things.” <cite>― Herb Kelleher ―</cite>
 
+## [Odlaw](https://github.com/cobelu/Odlaw)
+
+Odlaw was the final project for CSCI2390, Privacy-Conscious Computer Systems.
+The goal of the project was to help DBAs search for client data in order to quickly package and ship a GDPR-compliant user data report.
+[You can read the final paper here](https://cs.brown.edu/courses/csci2390/assign/project/report/odlaw.pdf).
+
+![The Odlaw Logo](assets/images/pages/projects/odlaw.png)
+
+## [LocoStow](https://github.com/cobelu/LocoStow)
+
+LocoStow was the final project for CSCI2270, Topics in Database Management.
+Chris Cataldo and I considered how geotemporal data storage could be implemented more effectively.
+We built a geotemporal hashing library in Rust.
+Attributes in time-series are not able to be treated as first-class citizens.
+We determined that looking at a specific case of attribute, a geographic coordinate, would be the most prudent direction to pursue.
+
+![LocoStow](assets/images/pages/projects/loco_stow.png)
+
 ## [Digitizing the Long-EZ Plans](https://github.com/cobelu/Long-EZ)
 
 Burt Rutan released the Long-EZ plans as open-source.
@@ -19,14 +37,6 @@ Me too!
 Bully is a builder's logging tool, written in Java.
 
 ![The Bully Logo](assets/images/pages/projects/bully.png)
-
-## [Odlaw](https://github.com/cobelu/Odlaw)
-
-Odlaw was the final project for [CSCI2390](https://cs.brown.edu/courses/csci2390/), Privacy-Conscious Computer Systems.
-The goal of the project was to help DBAs search for client data in order to quickly package and ship a GDPR-compliant user data report.
-[You can read the final paper here](https://cs.brown.edu/courses/csci2390/assign/project/report/odlaw.pdf).
-
-![The Odlaw Logo](assets/images/pages/projects/odlaw.png)
 
 ## [The Chaos Game]()
 
