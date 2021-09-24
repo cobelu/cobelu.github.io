@@ -48,7 +48,7 @@ I like how the Turtle package it simulates the point-by-point nature of the game
 
 ## [PRRC](https://github.com/cobelu/PRRC)
 
-The Pi Rick-Roll Controller ("prick") came to fruition when I realized that somebody had written a Python package to interface with the Chromecast protocol.
+The Pi Rick-Roll Controller (PRRC) came to fruition when I realized that somebody had written a Python package to interface with the Chromecast protocol.
 It rick-rolls every Chromecast device on your connected network.
 Use with caution!
 
