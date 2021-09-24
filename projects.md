@@ -35,6 +35,7 @@ Need to document an experimental aircraft build?
 Tired of Kitlog, blogging sites, or even handwritten notes?
 Me too!
 Bully is a builder's logging tool, written in Java.
+The project was an excuse for me to learn the JavaFX framework since my undergraduate courses utilized the Swing framework.
 
 ![The Bully Logo](assets/images/pages/projects/bully.png)
 
