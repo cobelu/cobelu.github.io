@@ -66,8 +66,8 @@ I compared our design to Dave's and found the following:
 * The cap could be reduced from 1-1/2" x 1-1/2" x 3/16" extrusion angle to 1-1/2" x 1-1/2" x 1/8" extrusion angle.
 * The web could be reduced from 0.040" aluminum to 0.032" aluminum.
 * The doubler can be reduced from a total of 3/8" to 1/4" 2024-T3/T4 aluminum.
-* The moment of inertia at the root is $10.29 \text{ in}^4$ for Dave's design.
-* The moment of inertia at the root is $10.58 \text{ in}^4$ for our design.
+* The moment of inertia at the root is 10.29 in^4 for Dave's design.
+* The moment of inertia at the root is 10.58 in^4 for our design.
 
 ## Conclusion
 
