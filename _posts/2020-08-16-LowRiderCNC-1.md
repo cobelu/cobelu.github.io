@@ -4,7 +4,7 @@ title: My LowRider2 CNC Project
 tags: [CNC]
 featured_image_thumbnail: LowRider2
 featured_image: assets/images/posts/2020/08/LR.jpg
-featured: true
+featured: false
 hidden: false
 ---
 

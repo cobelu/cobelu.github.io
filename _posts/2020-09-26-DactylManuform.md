@@ -4,7 +4,7 @@ title: I Built a Dactyl Manuform Keyboard (So You Don't Have To)
 tags: [CNC, 3DP, Electronics, Ergo]
 featured_image_thumbnail: LowRider2
 featured_image: assets/images/posts/2020/09/DM_1.jpg
-featured: true
+featured: false
 hidden: false
 ---
 

@@ -4,7 +4,7 @@ title: Guillow's Aeronca Champ
 tags: [model]
 featured_image_thumbnail: Aeronca Champ
 featured_image: assets/images/posts/2020/04/champ0.jpg
-featured: true
+featured: false
 hidden: false
 ---
 

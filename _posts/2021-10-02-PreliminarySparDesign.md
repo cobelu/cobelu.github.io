@@ -2,7 +2,7 @@
 layout: post
 title: Fixing a Perfectly Good Spar
 tags: [airplane, design, structure]
-featured: true
+featured: false
 hidden: false
 ---
 

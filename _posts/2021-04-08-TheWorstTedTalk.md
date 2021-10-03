@@ -2,7 +2,7 @@
 layout: post
 title: This Is the Worst TED Talk Ever
 tags: [aerodynamics, airplane]
-featured: true
+featured: false
 hidden: false
 ---
 

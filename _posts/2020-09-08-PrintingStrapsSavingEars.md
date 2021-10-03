@@ -2,7 +2,7 @@
 layout: post
 title: Printing Straps, Saving Ears
 tags: [Shoutout]
-featured: true
+featured: false
 hidden: false
 ---
 
