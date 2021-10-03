@@ -11,7 +11,7 @@ featured_image: /assets/images/pages/experience/ROC.jpeg
 I am the Graduate Teaching Assistant (GTA) for Brown's CSCI 1270 Database Management Systems for the Fall semester of 2021.
 The entire course was refactored for this semester.
 We now have coding assinments implemented in Golang, which allow students to get a better glimpse through the black box.
-We have also worked hard to write new written homework questions, which better serve the students.
+We have also worked hard to write new written homework questions in order to better serve the students.
 I am incredibly thankful for the hard work of all of the TAs for the course.
 
 ## Graduate Research Assistant
@@ -30,11 +30,14 @@ We analyzed possible relationships between amenity distances and income data in 
 
 ## Tutoring
 
-Austin College received a NOYCE grant from the NSF in order to send students out as tutors for local schools in STEM subjects.
-I worked as a math tutor at my local middle school in the fall of 2017, primarily working with 7th graders.
+I tutored a number of middle school students in the Fall semester of 2017.
+This was made possible by a generous NOYCE grant from the NSF given to Austin College.
+The purpose of the NOYCE grant was to send undergraduates into the community as advocates for STEM.
 It was an incredibly rewarding experience to say the least.
 
 ## Materials Science
 
-My materials science research involved nanoscale gold thin films. I used a cryogenic freezer to cool samples to frigid temperatures, where I could collect resistivity measurements. Data collection was done with LabView. Thanks to Dr. Manuel Quevedo-Lopez at the University of Texas at Dallas for allowing us to utilize UTD's lab equipment.
-
+My materials science research involved nanoscale gold thin films.
+I used a cryogenic freezer to cool samples to frigid temperatures, where I could collect resistivity measurements with LabView.
+We confirmed results that gold can exhibit resistivity versus temperature behavior like a semiconductor.
+Thanks to Dr. Manuel Quevedo-Lopez at the University of Texas at Dallas for allowing us to utilize UTD's lab equipment.

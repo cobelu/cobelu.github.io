@@ -3,8 +3,6 @@ layout: post
 title: Thoughts on Aircraft Design Part 2
 tags: [aerodynamics, airplane, design]
 featured: true
-featured_image_thumbnail:
-featured_image:
 hidden: false
 ---
 
