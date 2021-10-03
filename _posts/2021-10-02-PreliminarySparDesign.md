@@ -77,3 +77,12 @@ It feels like we should be able to not have to taper the caps and still have the
 
 Thanks for reading about my insane pipe dream.
 Until next time!
+
+## Addendum
+
+I crunched the numbers on the alumunum structure with weights provided by Aircraft Spruce.
+I found that our structure is 0.02 lb. lighter that Dave's!
+With a proper airfoil, we were able to size the spar such that we could have the same weight and we don't even have to taper the caps.
+*This saves hours of work* for a builder, and it also saves the builder some money!
+
+Later, I'll use Schrenk's method to start considering loading, so I can test it in SolidWorks.
