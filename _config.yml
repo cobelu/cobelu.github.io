@@ -45,6 +45,8 @@ navigation:
     url: /experience
   - text: CX4 Project
     url: https://connorcx4.wordpress.com/
+  - text: The Warbler Project
+    url: https://warbleraircraft.com/
 
 # Required Plugins
 plugins_dir:
