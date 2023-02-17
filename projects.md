@@ -1,10 +1,21 @@
 ---
 layout: page
 title: Projects
-featured_image: /assets/images/pages/projects/quickie.jpg
+# featured_image: /assets/images/pages/projects/quickie.jpg
 ---
 
 >“We have a strategic plan. It’s called doing things.” <cite>― Herb Kelleher ―</cite>
+
+## [FoilToDxf](https://github.com/cobelu/FoilToDxf)
+
+A quick tool written in Python to convert `dat` files to `dxf` files for importing airfoils into CAD.
+
+## [Barnscrapers](https://github.com/cobelu/BarnScrapers)
+
+Sorry, it's private!
+Written in Python with requests, sqlite, and 
+I wrote a Barnstormers scraper to look for an engine for my aircraft project.
+If you'd like to use it, then get in touch!
 
 ## [Odlaw](https://github.com/cobelu/Odlaw)
 
@@ -23,11 +34,6 @@ Attributes in time-series are not able to be treated as first-class citizens.
 We determined that looking at a specific case of attribute, a geographic coordinate, would be the most prudent direction to pursue.
 
 ![LocoStow](assets/images/pages/projects/loco_stow.png)
-
-## [Digitizing the Long-EZ Plans](https://github.com/cobelu/Long-EZ)
-
-Burt Rutan released the Long-EZ plans as open-source.
-My goal is to fully digitize them for the 21st century.
 
 ## [Bully](https://github.com/cobelu/BuildLog)
 

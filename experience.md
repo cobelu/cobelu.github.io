@@ -1,14 +1,19 @@
 ---
 layout: page
 title: Experience
-featured_image: /assets/images/pages/experience/ROC.jpeg
+# featured_image: /assets/images/pages/experience/ROC.jpeg
 ---
 
 >“The only source of knowledge is experience.” <cite>― Albert Einstein ―</cite>
 
+## Software Engineer
+
+Currently, I am a Software Engineer on the Data Team for the NDR division of Arista.
+We primarily work in Scala (which I hope to write a bit more about on this site).
+
 ## Graduate Teaching Assistant
 
-I am the Graduate Teaching Assistant (GTA) for Brown's CSCI 1270 Database Management Systems for the Fall semester of 2021.
+I was the Graduate Teaching Assistant (GTA) for Brown's CSCI 1270 Database Management Systems for the Fall semester of 2021.
 The entire course was refactored for this semester.
 We now have coding assinments implemented in Golang, which allow students to get a better glimpse through the black box.
 We have also worked hard to write new written homework questions in order to better serve the students.
