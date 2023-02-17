@@ -65,7 +65,7 @@ if (cond2) {
 }
 ```
 
-This block returns `(1, 2)`, but the reesult is not stored into anything!
+This block returns `(1, 2)`, but the result is not stored into anything!
 If we write a `return`, we will anger the Scala compiler, which does not want us to ever call `return` and will give us a compiler warning!
 If we had simply used the `return` keyword, we would get what we intended: `(1, 2)`.
 
