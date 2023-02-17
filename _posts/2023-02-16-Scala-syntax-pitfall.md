@@ -2,7 +2,7 @@
 layout: post
 title: Adventures in Scala - Pitfalls of Implicit Returns
 tags: [scala, coding]
-featured: true
+featured: false
 hidden: false
 ---
 
