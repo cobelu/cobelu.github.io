@@ -6,6 +6,16 @@ title: Projects
 
 >“We have a strategic plan. It’s called doing things.” <cite>― Herb Kelleher ―</cite>
 
+## [FliteKlub](https://github.com/cobelu/FliteKlub)
+
+Sorry, it's private!
+I'd like to put it out as a commercial app someday.
+It's a prototype of a scheduling app for flight clubs.
+I wrote it in Dart using the Flutter framework (did I mention I love Flutter?!).
+I actually wrote two backends because I was evaluating both a SQLAlchemy/FastAPI stack in Python and a Fiber/GORM in Go.
+Both are good choices, but I felt that FastAPI was safer and the built-in Swagger integration was much appreciated.
+I am also not fond of the way GORM handles one-to-many and many-to-many relationships.
+
 ## [FoilToDxf](https://github.com/cobelu/FoilToDxf)
 
 A quick tool written in Python to convert `dat` files to `dxf` files for importing airfoils into CAD.
