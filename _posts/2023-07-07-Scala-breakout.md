@@ -19,16 +19,16 @@ In this case our objective is to iterate over since we will later convert the va
 One way to approach this is to use reflection to figure out what the fields are:
 
 ```scala
-import scala.reflect.runtime.{universe => ru}
+import scala.reflect.runtime.universe.{runtimeMirror, termNames, typeOf}
 
 case class SomeClassClass(someField: Int, anotherField: String, yetAnotherField: Boolean)
 
 object Main extends App {
 
     val someInstance = SomeClassClass(42, "Hello", true)
-    val mirror = ru.runtimeMirror(getClass.getClassLoader)
-    val someClassType = ru.typeOf[SomeClassClass]
-    val constructorSymbol = someClassType.decl(ru.termNames.CONSTRUCTOR).asMethod
+    val mirror = runtimeMirror(getClass.getClassLoader)
+    val someClassType = typeOf[SomeClassClass]
+    val constructorSymbol = someClassType.decl(termNames.CONSTRUCTOR).asMethod
     val instanceMirror = mirror.reflect(someInstance)
     val objMirror = instanceMirror.reflectConstructor(constructorSymbol)()
 
