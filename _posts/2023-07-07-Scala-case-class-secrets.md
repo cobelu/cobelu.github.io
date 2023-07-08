@@ -82,7 +82,7 @@ trait Product {
 `Any` is *very* generic for a return type.
 If we needed to consider the type, we could use a `match` statement in order to guarantee that we treat it appropriately.
 
-## Show Yourself
+## All Together, Now
 
 We're almost finished (I promise)!
 Our final takeaway is putting everything together.
