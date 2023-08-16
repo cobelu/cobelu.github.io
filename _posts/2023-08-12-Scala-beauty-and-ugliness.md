@@ -1,18 +1,19 @@
 ---
 layout: post
-title: Adventures in Scala - An Overture in Unnecessary Code
+title: Adventures in Scala - Beauty and Ugliness
 tags: [scala, software, coding]
 featured: false
 hidden: false
 ---
 
-## Seen in the Wild
+## Beauty and Ugliness
 
-> "Under Heaven all can see beauty as beauty only because there is ugliness." <cite>― Lao Tzu ―</cite>
+>“Under Heaven all can see beauty as beauty only because there is ugliness.” <cite>― Lao Tzu ―</cite>
 
 Alright, let's look at something I saw recently that struck me as particularly ugly.
+Then, let's look at how we can find the hidden inner beauty.
 
-### Bad
+### Ugliness
 
 ```scala
 val someCollection = Array(1, 2, 3)
@@ -27,7 +28,7 @@ Again, we have introduced *unecessary* control flow!
 More importantly, we've completely missed the purpose of using a `map` operation.
 which leads to more paths to be tested if you want to properly test.
 
-### Good
+### Beauty
 
 First, let's recall the behavior of a `map` operation.
 
@@ -39,9 +40,10 @@ scala> someCollection.map(x => x + 1)
 val res0: Array[Int] = Array()
 ```
 
-Ok, so a `map` over a collection gives an empty version of that collection.
-*We don't ever need to check if a collection is empty*.
-We've already established the non-empty case behavior from the example above.
+Ok, so a `map` over a collection gives an *empty* version of that collection.
+*We don't ever need to check if a collection is empty while we are mapping over it*.
+In the non-empty case, we apply the given function on each element in the collection.
+That's the beauty of using a `map``.
 
 Let's bring everything together.
 

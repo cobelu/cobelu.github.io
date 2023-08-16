@@ -23,9 +23,10 @@ A quick tool written in Python to convert `dat` files to `dxf` files for importi
 ## [Barnscrapers](https://github.com/cobelu/BarnScrapers)
 
 Sorry, it's private!
-Written in Python with requests, sqlite, and 
 I wrote a Barnstormers scraper to look for an engine for my aircraft project.
 If you'd like to use it, then get in touch!
+It makes looking for a plane or parts much easier if you're in the market to buy.
+It's written in Python with requests, sqlite, and mailgun.
 
 ## [Odlaw](https://github.com/cobelu/Odlaw)
 

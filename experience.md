@@ -10,28 +10,26 @@ title: Experience
 
 Currently, I am a Software Engineer on the Data Team for the NDR division of Arista.
 We primarily work in Scala (which I hope to write a bit more about on this site).
+We make threat researcher easy and more productive by providing them with an awesome threat-hunting tool.
 
 ## Graduate Teaching Assistant
 
 I was the Graduate Teaching Assistant (GTA) for Brown's CSCI 1270 Database Management Systems for the Fall semester of 2021.
-The entire course was refactored for this semester.
-We now have coding assinments implemented in Golang, which allow students to get a better glimpse through the black box.
-We have also worked hard to write new written homework questions in order to better serve the students.
-I am incredibly thankful for the hard work of all of the TAs for the course.
+We moved from Java to Golang, and created new assignments, which gave students a full soup-to-nuts creation of a mini database.
+It was a complete (and rewarding) overhaul.
 
 ## Graduate Research Assistant
 
-I have been a Graduate Research Assistant (GRA) in the Brown Database Group since June of 2019.
-In the past I have worked on distributed databases, specifically determining their applicability for wimpy clusters.
-Now, I consider how aspects of GDPR compliance can be achieved via "bolt-on" mechanisms.
+I was a Graduate Research Assistant (GRA) in the Brown Database Group from June 2019 to December 2022.
+In that previous life, I worked on distributed databases, specifically determining their applicability for wimpy clusters.
+Later, I considered how aspects of GDPR compliance could be achieved via "bolt-on" mechanisms.
 
 ## Data Science
 
 In the summer of 2018 I worked under Dr. Gourab Ghoshal at the University of Rochester.
-I picked up the UNIX shell, PostgreSQL, and pandas.
-I wrote a python package to create driving routes between urban amenities.
+I analyzed driving routes between urban amenities with Python and pandas.
 It fetched information from an OpenStreetMap database configured with the PostGIS and pgRouting extensions.
-We analyzed possible relationships between amenity distances and income data in various urban areas.
+Specifically, we examined relationships between distances to various amenities and socioeconomic data for a selection of American cities.
 
 ## Tutoring
 
@@ -42,7 +40,7 @@ It was an incredibly rewarding experience to say the least.
 
 ## Materials Science
 
-My materials science research involved nanoscale gold thin films.
-I used a cryogenic freezer to cool samples to frigid temperatures, where I could collect resistivity measurements with LabView.
-We confirmed results that gold can exhibit resistivity versus temperature behavior like a semiconductor.
-Thanks to Dr. Manuel Quevedo-Lopez at the University of Texas at Dallas for allowing us to utilize UTD's lab equipment.
+As an undergraduate researcher, I spent Summer and Fall of 2016 examining nanoscale gold thin films.
+I wrote LabView programs to measure resistivity of gold nano-films to look for semiconductor-like behavior.
+We confirmed results that gold can exhibit resistivity per temperature behavior similar to that of a semiconductor.
+We were fortunate to partner with Dr. Manuel Quevedo-Lopez at the University of Texas at Dallas for allowing us to utilize their lab equipment.

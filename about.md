@@ -15,7 +15,7 @@ I completed my undergraduate studies at [Austin College in Sherman, TX](https://
 
 I love bicycles, airplanes, and music.
 [I'm currently building a Thatcher CX4](https://connorcx4.wordpress.com), which is a single-seat aluminum airplane built from plans and powered by a converted VW Beetle engine.
-I am also slowly working on a design I call the Warbler, to fit in the LSA category of aircraft.
+I am also slowly working on a design I call [the Warbler](https://warbleraircraft.com), a two-seat light sport aircraft (LSA), which I intend to eventually release as open-source software under the CC BY-NC-SA license.
 
 Also, my cat's name is Sir Isaac Newton.
 
