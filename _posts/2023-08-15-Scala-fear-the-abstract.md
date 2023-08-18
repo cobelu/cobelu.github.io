@@ -17,9 +17,9 @@ That said, although APIs are accessible across languages, the patterns don't alw
 The differences between the two can make interopability difficult at points.
 
 One difficulty that hit me in a sudden realization:
-*Java interfaces abstract classes are very bad for public APIs*.
+*Java's abstract classes are very bad for public APIs*.
 
-## Interfaces and Abstract Classes - The Documentation Brick Wall
+## Abstract Classes - The Documentation Brick Wall
 
 The particular example I can suggest we look at is the `NettyServerBuilder` in the `grpc` library.
 [The documentation (the first thing I see when I search for the name) is viewable here](https://www.javadoc.io/doc/io.grpc/grpc-netty/1.16.1/io/grpc/netty/NettyServerBuilder.html).
@@ -46,7 +46,7 @@ However, there's absolutely no details on the page about what we *can* use in it
 We have two options:
 
 1. Extend the class with our own implementation.
-2. Dig through documentation to find.
+2. Dig through documentation to find an example.
 3. Search the web for an example from someone else.
 
 Realistically, all three of these options suck.
@@ -79,10 +79,18 @@ We didn't have to dig through documentation!
 We didn't have to search the web for (possibly questionable) examples from Stack Overflow!
 Everything we needed is there, ready for us to go!
 
+## An Admission
+
+I'm a little hard on Java.
+[If you look at the documentation for Java's `Iterable` interface](https://docs.oracle.com/javase/8/docs/api/java/lang/Iterable.html),
+then you'll realize that Java can do this as well for interfaces.
+
 ## Takeaway
 
-Much of Java's power came from interfaces and abstract classes, but this pattern is *really* starting to *show its age*.
+Java's abstract classes are powerful tools, but this pattern is *really* starting to *show its age*.
 If you're going to provide documentation with the use of an abstract class in a public api,
 then you *absolutely must* provide at least one example with an implementation class.
-At the *very least*, provide a helper function to give you a bland (minimal) instance of that.
+*Better yet, use an interface.*
+Still better, use Scala 😉!
+At the *very least*, provide a helper function to give you a bland (minimal) instance of that thing.
 If your user had to leave the IDE to figure out how to use your API, your documentation is likely lacking.
