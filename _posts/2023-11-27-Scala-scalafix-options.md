@@ -10,7 +10,7 @@ Use `scalafix`!
 
 ## About
 
-[Scalafix/](https://scalacenter.github.io/scalafix/) is an *essential* tool if you're working in Scala.
+[Scalafix](https://scalacenter.github.io/scalafix/) is an *essential* tool if you're working in Scala.
 Although I prefer no-frills solutions (the less you can modify, the better), scalafix is *the* linter for Scala.
 
 ## Options
