@@ -81,3 +81,8 @@ Use a linter!
 Use a formatter!
 Personally, I can't understand how any team could possibly maintain a codebase without them.
 *It doesn't have to be perfect*, but needs to exist.
+
+## Disclaimer
+
+I later learned that `scalafix` does not play well with implicits.
+Be careful when using!
