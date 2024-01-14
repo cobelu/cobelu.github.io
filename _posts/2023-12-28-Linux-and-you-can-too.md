@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux Fixes - Linux for the New Year (and You Can Too!)
+title: Linux for the New Year (and You Can Too!)
 tags: [linux]
 featured: false
 hidden: false
