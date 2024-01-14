@@ -23,7 +23,7 @@ If you know how much heartburn Dassault has given me, you'd know this experience
 
 ## Let Me Explain
 
-[MakerMade is a somewhat unauthorized fork of the Maslow project](https://www.youtube.com/watch?v=0TiDxp82jCQ&pp=ygUlbWFzbG93IGFuZCBtYWtlcm1hZGUgYXJlIG5vdCB0aGUgc2FtZQ%3D%3D).
+[MakerMade is a somewhat questionable fork of the Maslow project](https://www.youtube.com/watch?v=0TiDxp82jCQ&pp=ygUlbWFzbG93IGFuZCBtYWtlcm1hZGUgYXJlIG5vdCB0aGUgc2FtZQ%3D%3D).
 The MakerMade M2 is an attempt to commercialize and improve the Maslow project.
 A friendly reminder that most open-source projects allow for commercial use; however, they typically must attribute the source.
 It seems MakerMade has done a poor job of separating themselves from the Maslow project.
@@ -159,8 +159,8 @@ I can't believe I have to write this down 🤦.
 
 ## Conclusion
 
-* *F*#@ MakerMade*.
-* Support Maslow; they're doing great stuff and should be recognized.
+* *F*#@ MakerMade.
+* Support Maslow; they're doing *awesome* stuff and should be recognized.
 * Don't trust Reddit (duh).
 * Be a decent human and don't sell unsupported garbage to customers.
 * Try to do cool stuff; life is too short to worry about failing.
