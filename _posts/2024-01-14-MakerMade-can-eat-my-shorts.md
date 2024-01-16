@@ -49,13 +49,27 @@ The software that the "you-know-whats" at MakerMade wrote is compatible with bot
 On the other side of that, if you use a MakerMade M2, then you are forced to use the software from MakerMade, called "Makerverse".
 
 Makerverse is "open-source".
-[Its source code is on GitHub with a GPL-3.0 license](https://github.com/makermadecnc/makerverse).
-However, I put it in quotes because it hasn't been touched in almost 3 years.
-It has not been updated since fall of 2021.
-
+Yet, there hasn't been a commit to the repo in several years.
 A friendly note: open-source projects die all the time.
 People don't like working for free, there will be jerks online, and maintainers will often decide to pass the flame to someone else.
 *However, this case is different.*
+
+[Its source code is on GitHub with a GPL-3.0 license](https://github.com/makermadecnc/makerverse).
+That sounds great, but there's a catch.
+It's a fork of the [CNCjs project](https://github.com/cncjs/cncjs), which has an MIT license.
+Although MIT code can be used in GPL-3.0 code, [GPL-3.0 code cannot be used in MIT code](https://opensource.stackexchange.com/a/1641).
+That means that improvements that were made on top of CNCjs cannot be merged into CNCjs (at least without giant headaches).
+Aha!
+This isn't an act of selflessness.
+Rather, *it's an act of malfeasance*.
+
+Even worse, the code isn't really much of a fork at all by git's definition.
+[The first commit is one giant copy and paste from the CNCjs project](https://github.com/makermadecnc/makerverse/commit/b375f860fdeacdc2a910602662608892b77fff56#diff-03a484dbf178c8574e519a2e14e1ef2a4d68356e0b391a60ecbbe144d4e940e8).
+Because of this, there's not really much of a possibility of being able to rebase the project.
+If they had forked the CNCjs project (like a decent human being), then their commits would have been on top of the CNCjs project.
+Then, we could fork the main branch of CNCjs and cherry-pick the commits of the MakerVerse repo onto our new project.
+It would be **a lot** of work, *but you could do it*.
+Although in this reality, that's  not a viabe option.
 
 ## There's Just One ~~Little~~ Giant Problem
 
@@ -168,3 +182,16 @@ I can't believe I have to write this down 🤦.
 Stay safe out there,
 
 -Connor
+
+## EDIT [24 Hours Later]: How Does This End?
+
+I found a Facebook group for MakerMade products.
+Roughly half of the recent posts are complaints about MakerVerse not working (So that's where the angry people of the internet are hanging out!).
+One guy (from MakerMade?) gets tagged in every thread about MakerVerse and posts the PDF instructions over and over again.
+If you send MakerMade an email, they will respond with instructions on how to patch the config file, and I should note I was able to get Ubuntu to talk to the Arduino Due board.
+I'll try a dry run in a few days when I have time.
+Again, it boggles me that a PDF can't be posted in a central location, the product is still on the shelves, and MakerMade hasn't been brought to court yet.
+
+Let me end by saying this:
+You will still be left with unsupported software if you apply the patch, and you'll still be buying into a company that would rather screw the customer than build a community.
+There are better options out there.
