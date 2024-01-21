@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MakerMade Can Eat My Shorts
+title: MakerMade Can Eat My Shorts - Part 1
 tags: [CNC]
 featured: false
 hidden: false
@@ -69,7 +69,7 @@ Because of this, there's not really much of a possibility of being able to rebas
 If they had forked the CNCjs project (like a decent human being), then their commits would have been on top of the CNCjs project.
 Then, we could fork the main branch of CNCjs and cherry-pick the commits of the MakerVerse repo onto our new project.
 It would be **a lot** of work, *but you could do it*.
-Although in this reality, that's  not a viabe option.
+Although in this reality, that's  not a viable option.
 
 ## There's Just One ~~Little~~ Giant Problem
 
@@ -195,3 +195,8 @@ Again, it boggles me that a PDF can't be posted in a central location, the produ
 Let me end by saying this:
 You will still be left with unsupported software if you apply the patch, and you'll still be buying into a company that would rather screw the customer than build a community.
 There are better options out there.
+
+## EDIT [72 Hours Later]
+
+I spent about a total of about 3 hours trying to rebase the MakerVerse repository on top of the CNCjs library with git wizardry.
+Finally, I asked myself, "why am I wasting my time on this?".
