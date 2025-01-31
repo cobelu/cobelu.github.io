@@ -8,9 +8,15 @@ title: Experience
 
 ## Software Engineer
 
-Currently, I am a Software Engineer on the Data Team for the NDR division of Arista.
-We primarily work in Scala (which I hope to write a bit more about on this site).
-We make threat researcher easy and more productive by providing them with an awesome threat-hunting tool.
+I am a Software Engineer, supporting the backend and storage of Arista's CloudVision product.
+I write a ton of Go.
+More importantly, this position fulfilled my dream of having a job full of writing and debugging concurrent code.
+
+## Data Engineer
+
+I previously worked on the in the NDR division of Arista as a Data Engineer.
+Most of our work was in Scala, but I wrote a lot of SQL and occasionally wrote some Python.
+Arista NDR makes threat researchers more productive by providing them with an awesome threat-hunting tool.
 
 ## Graduate Teaching Assistant
 
