@@ -24,6 +24,7 @@ I knew the math, the structures, the fluids, but I didn't understand how to rela
 So I revisited Chris' book, which ignores the complicated stuff you don't need to worry about when you're starting out.
 Then, the more complicated things finally started making sense.
 To be clear: this is *the* book I recommend to anyone interested in getting started with the process of aircraft design.
+Let me be even clearer: if you know nothing about aircraft design and want to learn about aircraft design, you *need* this book.
 Heintz revolutionized aircraft homebuilding, and to this day I strongly feel it is the right way to design:
 simple, cost-effective, pragmatic.
 
